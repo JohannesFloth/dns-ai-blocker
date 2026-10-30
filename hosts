@@ -8,7 +8,7 @@
 # Fetch the latest version of this file: https://raw.githubusercontent.com/JohannesFloth/dns-ai-blocker/refs/heads/main/hosts
 #
 # ===============================================================
-chatgpt.com
+0.0.0.0 chatgpt.com
 chat.openai.com
 platform.openai.com
 api.openai.com
