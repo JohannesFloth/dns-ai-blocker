@@ -1,0 +1,64 @@
+# Title: JFloth/hosts
+#
+# This hosts file is a custom list of AI-Domains/IP-Addresses,
+#
+# Date: 30 October 2026 09:18:38 (UTC)
+# Number of unique domains: 
+#
+# Fetch the latest version of this file: https://raw.githubusercontent.com/JohannesFloth/hosts/master/hosts
+#
+# ===============================================================
+chatgpt.com
+chat.openai.com
+platform.openai.com
+api.openai.com
+claude.ai
+api.anthropic.com
+console.anthropic.com
+gemini.google.com
+aistudio.google.com
+notebooklm.google.com
+perplexity.ai
+www.perplexity.ai
+copilot.microsoft.com
+m365.cloud.microsoft
+chat.deepseek.com
+deepseek.com
+grok.com
+x.ai
+poe.com
+character.ai
+meta.ai
+chat.mistral.ai
+mistral.ai
+chat.qwen.ai
+qwen.ai
+huggingface.co
+huggingchat.chat
+you.com
+phind.com
+blackbox.ai
+writesonic.com
+chatsonic.com
+jasper.ai
+copy.ai
+rytr.me
+quillbot.com
+wordtune.com
+gamma.app
+beautiful.ai
+canva.com
+midjourney.com
+leonardo.ai
+ideogram.ai
+runwayml.com
+pika.art
+suno.com
+udio.com
+replit.com
+cursor.com
+windsurf.com
+codeium.com
+v0.dev
+bolt.new
+lovable.dev
